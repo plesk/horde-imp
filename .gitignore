@@ -36,3 +36,5 @@ run-tests.log
 /config/*.local.php
 /config/*-*.php
 
+/vendor
+/composer.lock
